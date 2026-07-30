@@ -287,6 +287,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "pls zkontrolovat ze R208, R207, R206 a C213\nmaji spravne hodnoty aby to neinvertovalo a \nmelo 1x gain pro vysoke frekvence, dekuji "
+		(exclude_from_sim no)
+		(at 108.204 66.04 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "21acc124-cafb-4fb3-b3bf-8ab6e6fedc02")
+	)
 	(text "MOUNTING HOLES"
 		(exclude_from_sim no)
 		(at 252.73 30.48 0)
