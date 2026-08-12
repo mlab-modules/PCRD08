@@ -6,9 +6,20 @@ github_description: PCB module PCRD08
 github_repo: PCRD08
 github_url: https://github.com/mlab-modules/PCRD08
 homepage: false
-images: []
+images:
+- doc/gen/img/PCRD08-top.png
+- doc/gen/img/PCRD08-bottom.png
+- doc/gen/PCRD08-interface-schematic.svg
+- doc/gen/PCRD08-schematic.svg
+- doc/gen/PCRD08-analogue_backend_1-schematic.svg
+- doc/gen/img/PCRD08-bottom.svg
+- doc/gen/img/PCRD08-top.svg
+- hw/cam_profi/assembly/PCRD08-assembly_page_02.svg
+- hw/cam_profi/assembly/PCRD08-assembly_page_01.svg
 issues: 0
 mark: 50
+mod_ibom: hw/cam_profi/PCRD08-ibom.html
+mod_scheme: doc/gen/PCRD08-schematic.pdf
 tags: []
 title: PCRD08
-updated: '2026-08-12T15:13:32.330595+00:00'
+updated: '2026-08-12T15:15:57.144699+00:00'
