@@ -1,14 +1,14 @@
-description: Template repository
-github_branch: MODUL01A
+description: TODO - describe the PCRD08 module
+github_branch: PCRD08A
 github_branches:
-- MODUL01A
-github_repo: MODUL01
-github_url: https://github.com/mlab-modules/MODUL01
+- PCRD08A
+github_repo: PCRD08
+github_url: https://github.com/mlab-modules/PCRD08
 homepage: false
 images: []
-issues: 2
+issues: 0
 mark: 50
 tags:
 - mlab
 - mlab-module
-title: MODUL01
+title: PCRD08
