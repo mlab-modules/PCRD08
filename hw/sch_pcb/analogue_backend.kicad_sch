@@ -5,7 +5,7 @@
 	(uuid "15c57961-09a7-4e45-a152-b8568fd92b6e")
 	(paper "A4")
 	(title_block
-		(title "PCRD008")
+		(title "PCRD08")
 		(date "2026-7-24")
 		(company "KubFire <info@ust.cz>")
 		(comment 2 "Analogue backend with SPI interface")

@@ -5,7 +5,7 @@
 	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
 	(paper "A4")
 	(title_block
-		(title "PCRD008")
+		(title "PCRD08")
 		(date "2026-07-24")
 		(company "KubFire <info@ust.cz>")
 		(comment 2 "Analogue backend with SPI interface")
@@ -1214,7 +1214,7 @@
 			)
 		)
 		(instances
-			(project "PCRD008"
+			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "2")
 				)
@@ -1306,7 +1306,7 @@
 			)
 		)
 		(instances
-			(project "PCRD008"
+			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "1")
 				)

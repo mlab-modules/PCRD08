@@ -8,7 +8,7 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "PCRD008")
+		(title "PCRD08")
 		(date "2026-07-24")
 		(company "Universal Scientific Technologies s.r.o.")
 	)
@@ -15751,7 +15751,7 @@
 			)
 		)
 	)
-	(gr_text "PCRD008"
+	(gr_text "PCRD08"
 		(at 133.4 129.1 0)
 		(layer "F.SilkS")
 		(uuid "3b18ff11-0432-4470-bfc7-b81a00308924")
