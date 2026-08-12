@@ -1,4 +1,4 @@
-description: TODO - describe the PCRD08 module
+description: PCB module PCRD08
 github_branch: PCRD08A
 github_branches:
 - PCRD08A
@@ -8,7 +8,5 @@ homepage: false
 images: []
 issues: 0
 mark: 50
-tags:
-- mlab
-- mlab-module
+tags: []
 title: PCRD08

@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/PCRD08
-summary: TODO - describe the PCRD08 module
+summary: PCB module PCRD08
