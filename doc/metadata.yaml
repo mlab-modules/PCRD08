@@ -9,9 +9,9 @@ homepage: false
 images:
 - doc/gen/img/PCRD08-top.png
 - doc/gen/img/PCRD08-bottom.png
+- doc/gen/PCRD08-analogue_backend_1-schematic.svg
 - doc/gen/PCRD08-interface-schematic.svg
 - doc/gen/PCRD08-schematic.svg
-- doc/gen/PCRD08-analogue_backend_1-schematic.svg
 - doc/gen/img/PCRD08-bottom.svg
 - doc/gen/img/PCRD08-top.svg
 - hw/cam_profi/assembly/PCRD08-assembly_page_02.svg
@@ -22,4 +22,4 @@ mod_ibom: hw/cam_profi/PCRD08-ibom.html
 mod_scheme: doc/gen/PCRD08-schematic.pdf
 tags: []
 title: PCRD08
-updated: '2026-08-12T15:15:57.144699+00:00'
+updated: '2026-08-13T02:15:03.220134+00:00'
