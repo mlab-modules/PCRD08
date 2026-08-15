@@ -3452,16 +3452,6 @@
 		)
 		(uuid "05ea91e8-5625-4736-b749-d62cb4a1bd93")
 	)
-	(text "pls zkontrolovat ze R208, R207, R206 a C213\nmaji spravne hodnoty aby to neinvertovalo a \nmelo 1x gain pro vysoke frekvence, dekuji "
-		(exclude_from_sim no)
-		(at 70.104 145.288 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-		)
-		(uuid "0efc4634-ed8a-4f8f-9b25-d70a54288e33")
-	)
 	(text "1.5uA"
 		(exclude_from_sim no)
 		(at 104.14 156.21 0)
