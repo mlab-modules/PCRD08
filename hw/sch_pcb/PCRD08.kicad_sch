@@ -551,7 +551,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f7caab5-0819-49b3-9d3c-848595206595")
-		(property "Reference" "M101"
+		(property "Reference" "M1"
 			(at 255.27 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -610,7 +610,7 @@
 		(instances
 			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "M101")
+					(reference "M1")
 					(unit 1)
 				)
 			)
@@ -628,7 +628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f2adbb7-5f97-4a39-b161-72c425f5a17c")
-		(property "Reference" "FID104"
+		(property "Reference" "FID4"
 			(at 266.319 41.9679 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -703,7 +703,7 @@
 			)
 			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "FID104")
+					(reference "FID4")
 					(unit 1)
 				)
 			)
@@ -721,7 +721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ef0c33d-aa75-4799-ba66-ba16fac2c793")
-		(property "Reference" "FID102"
+		(property "Reference" "FID2"
 			(at 253.619 41.9679 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -796,7 +796,7 @@
 			)
 			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "FID102")
+					(reference "FID2")
 					(unit 1)
 				)
 			)
@@ -813,7 +813,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3fd9a9d1-d6ff-4929-bc8e-7e6fded34d7e")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR01"
 			(at 275.59 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -871,7 +871,7 @@
 		(instances
 			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR0101")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -888,7 +888,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4054a592-d87e-449f-b3ef-d58167abc7e7")
-		(property "Reference" "M102"
+		(property "Reference" "M2"
 			(at 260.35 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -947,7 +947,7 @@
 		(instances
 			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "M102")
+					(reference "M2")
 					(unit 1)
 				)
 			)
@@ -964,7 +964,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d6118cb-affa-4344-8507-72538abdb8a0")
-		(property "Reference" "M103"
+		(property "Reference" "M3"
 			(at 265.43 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1023,7 +1023,7 @@
 		(instances
 			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "M103")
+					(reference "M3")
 					(unit 1)
 				)
 			)
@@ -1041,7 +1041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2c2b1aa-d8ea-46ec-9175-db46f7998416")
-		(property "Reference" "FID101"
+		(property "Reference" "FID1"
 			(at 253.619 35.6179 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1110,7 +1110,7 @@
 		(instances
 			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "FID101")
+					(reference "FID1")
 					(unit 1)
 				)
 			)
@@ -1128,7 +1128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6c184f9-2b0d-461c-a561-7afee4f0ebb4")
-		(property "Reference" "FID103"
+		(property "Reference" "FID3"
 			(at 266.319 35.6179 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1197,7 +1197,7 @@
 		(instances
 			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "FID103")
+					(reference "FID3")
 					(unit 1)
 				)
 			)
@@ -1214,7 +1214,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c9b5469c-9b81-4444-ad4c-685d592a460e")
-		(property "Reference" "M104"
+		(property "Reference" "M4"
 			(at 270.51 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1273,7 +1273,7 @@
 		(instances
 			(project "PCRD08"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "M104")
+					(reference "M4")
 					(unit 1)
 				)
 			)
